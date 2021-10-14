@@ -1,0 +1,7 @@
+C:\Users\schchr0212\Desktop\Tarif\Tarif\bin\Debug\Tarif.exe.config
+C:\Users\schchr0212\Desktop\Tarif\Tarif\bin\Debug\Tarif.exe
+C:\Users\schchr0212\Desktop\Tarif\Tarif\bin\Debug\Tarif.pdb
+C:\Users\schchr0212\Desktop\Tarif\Tarif\obj\Debug\Tarif.csprojAssemblyReference.cache
+C:\Users\schchr0212\Desktop\Tarif\Tarif\obj\Debug\Tarif.csproj.CoreCompileInputs.cache
+C:\Users\schchr0212\Desktop\Tarif\Tarif\obj\Debug\Tarif.exe
+C:\Users\schchr0212\Desktop\Tarif\Tarif\obj\Debug\Tarif.pdb
